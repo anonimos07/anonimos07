@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi, I'm William 👋</h1>
+<h1 align="center">Hi, I'm Charles William Sevenial 👋</h1>
 
 <h3 align="center">
   Backend Developer 
